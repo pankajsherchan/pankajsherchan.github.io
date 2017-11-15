@@ -1,7 +1,7 @@
 ---
 title: Computer Store Web Api
 date: '2015-03-12 19:30:00'
-tags: [api-project]
+tags: []
 ---
 
 <p style="color: #00a28b;">
