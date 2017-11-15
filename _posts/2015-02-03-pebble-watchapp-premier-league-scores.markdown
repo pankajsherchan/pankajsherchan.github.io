@@ -1,7 +1,7 @@
 ---
 title: 'Paystar'
 date: '2015-02-03 16:00:00'
-tags: [pebble, javascript, soccer]
+tags: [utilistar-paystar]
 ---
 
 <p style="color: green;">
