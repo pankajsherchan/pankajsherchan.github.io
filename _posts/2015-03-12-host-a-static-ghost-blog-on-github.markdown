@@ -4,8 +4,11 @@ date: '2015-03-12 19:30:00'
 tags: [api-project]
 ---
 
--Developed Restful Web API in ASP.NET for the Computer Store
--Implemented Repository Pattern, DTOs and Dependency Injection 
--Designed single page web portal using Angular.js
--Included SignalR for the instant update of the computer products across different browsers
-- Used Xamrin.forms to make a cross platform mobile application for the computer management
+<p style="color: #00a28b;">
+• Developed Restful Web API in ASP.NET for the Computer Store.<br>
+• Implemented Repository Pattern, DTOs and Dependency Injection. <br>
+• Designed single page web portal using Angular.js.<br>
+• Included SignalR for the instant update of the computer products across different browsers. <br>
+• Used Xamrin.forms to make a cross platform mobile application for the computer management.<br>
+</p>
+
