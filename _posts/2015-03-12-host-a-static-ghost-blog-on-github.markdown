@@ -4,7 +4,7 @@ date: '2015-03-12 19:30:00'
 tags: []
 ---
 
-<p style="color: #00a28b; background-color: #BBDEFB; ">
+<p style="color: #00a28b; background-color: #9E9E9E; ">
 • Developed Restful Web API in ASP.NET for the Computer Store.<br>
 • Implemented Repository Pattern, DTOs and Dependency Injection. <br>
 • Designed single page web portal using Angular.js.<br>
