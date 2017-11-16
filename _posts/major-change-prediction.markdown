@@ -1,6 +1,6 @@
 ---
-title: CCMIS
-date: '2015-03-03 14:50:0'
+title: Major Change Prediction
+date: '2017-03-03 14:50:0'
 tags: [pankaj]
 ---
 
