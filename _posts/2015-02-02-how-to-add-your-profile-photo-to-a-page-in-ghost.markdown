@@ -4,7 +4,7 @@ date: '2015-02-02 04:00:00'
 tags: [ghost, test]
 ---
 
-<p style="color: red; background-color: #B0BEC5; ">•Working with CCMIS (Aviation Management Project) team in creating airport management software. <br>
+<p style="color: red; background: #9E9E9E;">•Working with CCMIS (Aviation Management Project) team in creating airport management software. <br>
 •Setup n-layer architecture, hangfire configuration for notification system, esri map to add map 
 functionalities for the project. <br>
 •Setup the Client side interaction with Angular JS, project styling with Angular Material and less.<br>
