@@ -10,19 +10,12 @@ layout: default
     {% for post in paginator.posts %}
       <li>
         <h2 class="post-list__post-title post-title">
-        
             {{ post.title }}
         </h2>
         <p class="excerpt">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}&hellip;</p>
         <li class="navigation__item">
-          <h2>
-          <a href="{{ site.baseurl }}#blog" title="link to {{ site.title }} blog" class="blog-button">Projects</a>
-          </h2>
-  </li>
-
-
-  
-        <hr class="post-list__divider">
+       </li>
+       <hr class="post-list__divider">
       </li>
     {% endfor %}
   </ol>
