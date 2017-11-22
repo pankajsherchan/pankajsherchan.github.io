@@ -1,7 +1,8 @@
 ---
 title: Major Change Prediction
 date: '2017-03-03 14:50:0'
-tags: [pankaj]
+tags: [majorprediction]
+---
 <p style="color: #3e1e04; background-color: #9E9E9E; " >
 •Project: Used stochastic modelling with Markov Chains to estimate student success in changing majors.<br>
 •Supervisor: Dr. Lucyna Kabza, Dr. David Gurney. <br>
