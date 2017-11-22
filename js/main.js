@@ -19,13 +19,12 @@ $(document).ready(function () {
 
   if (window.location.hash && window.location.hash == '#blog') {
     $('.panel-cover').addClass('panel-cover--collapsed')
-     $('.navigation-wrapper').animate({'max-width': '350px', 'width': '350px'}, 350, swing = 'swing', function () {})
   }
 
   if (window.location.pathname !== '{{ site.baseurl }}' && window.location.pathname !== '{{ site.baseurl }}index.html' 
       && window.location.pathname !== '{{ site.baseurl }}/') {
     $('.panel-cover').addClass('panel-cover--collapsed')
-     $('.navigation-wrapper').animate({'max-width': '350px', 'width': '350px'}, 350, swing = 'swing', function () {})
+     
   }
 
   $('.btn-mobile-menu').click(function () {
